@@ -9,7 +9,7 @@ Open [index.html](index.html) in Chrome or Edge, pick a video file, and the sket
 ## Install it as a userscript
 
 1. Install [Violentmonkey](https://violentmonkey.github.io/) or [Tampermonkey](https://www.tampermonkey.net/). In Chrome, turn on **Allow User Scripts** on the extension's details page (on older Chrome versions, turn on developer mode instead).
-2. Create a new script, paste in the contents of `scribble-overlay.user.js`, and save.
+2. Open [scribble-overlay.user.js](https://raw.githubusercontent.com/rarrarrarr/scribble-overlay/main/scribble-overlay.user.js) and click **Install** when the extension asks. It checks this link for updates.
 3. On a page with a video, press **Alt+S**.
 
 ## Controls

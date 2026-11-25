@@ -1,11 +1,14 @@
 // ==UserScript==
 // @name         Scribble overlay (experiment)
 // @namespace    https://github.com/rarrarrarr/scribble-overlay
-// @version      0.1.0
+// @version      0.1.1
 // @description  Draws the video you're watching as a live pencil-and-ink sketch. Alt+S toggles it.
 // @match        *://*/*
 // @grant        none
 // @run-at       document-idle
+// @homepageURL  https://github.com/rarrarrarr/scribble-overlay
+// @updateURL    https://raw.githubusercontent.com/rarrarrarr/scribble-overlay/main/scribble-overlay.user.js
+// @downloadURL  https://raw.githubusercontent.com/rarrarrarr/scribble-overlay/main/scribble-overlay.user.js
 // ==/UserScript==
 
 // A WebGL2 port of scripts/scribble.py in https://github.com/rarrarrarr/afha. Each video frame goes through:
